@@ -1,2 +1,6 @@
-this is the readme file
+Student Name: Ayaan
+
+CMS: 609621
+
+BSCS Section B
 
